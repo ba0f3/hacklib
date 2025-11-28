@@ -165,7 +165,7 @@ uintptr_t hl::PatternScanner::findString(const std::string& str, const std::stri
         if (region.hModule == hModule && region.protection == hl::PROTECTION_READ_EXECUTE)
         {
             auto baseAdr = (const uint8_t*)region.base;
-            const size_t regionSize = region.size;
+            size_t regionSize = region.size;
 
 #ifndef ARCH_64BIT
             do
