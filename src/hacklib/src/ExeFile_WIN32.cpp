@@ -1,5 +1,5 @@
 #include "hacklib/ExeFile.h"
-#include <Windows.h>
+#include <windows.h>
 
 
 class hl::ExeFileImpl

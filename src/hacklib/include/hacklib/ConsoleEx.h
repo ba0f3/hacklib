@@ -1,7 +1,7 @@
 #ifndef HACKLIB_CONSOLEEX_H
 #define HACKLIB_CONSOLEEX_H
 
-#include <Windows.h>
+#include <windows.h>
 #include <functional>
 #include <future>
 #include <string>

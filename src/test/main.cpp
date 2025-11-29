@@ -5,7 +5,7 @@
 #include <filesystem>
 
 #ifdef WIN32
-#include <Windows.h>
+#include <windows.h>
 #else
 #include <dlfcn.h>
 #endif

@@ -1,7 +1,7 @@
 #include "hacklib/Hooker.h"
 #include "hacklib/Main.h"
 #include "hacklib/PageAllocator.h"
-#include <Windows.h>
+#include <windows.h>
 #include <map>
 #include <mutex>
 

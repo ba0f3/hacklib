@@ -1,5 +1,5 @@
 #include "hacklib/Timer.h"
-#include <Windows.h>
+#include <windows.h>
 #include <cstdint>
 #include <iostream>
 #include <map>

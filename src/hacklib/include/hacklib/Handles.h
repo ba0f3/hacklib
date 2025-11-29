@@ -2,7 +2,7 @@
 #define HACKLIB_HANDLES_H
 
 #ifdef _WIN32
-#include <Windows.h>
+#include <windows.h>
 #include <d3d9.h>
 #endif
 

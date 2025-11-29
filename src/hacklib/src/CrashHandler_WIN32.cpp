@@ -1,5 +1,5 @@
 #include "hacklib/CrashHandler.h"
-#include <Windows.h>
+#include <windows.h>
 
 
 // Microsoft does not seem to provide a definition.

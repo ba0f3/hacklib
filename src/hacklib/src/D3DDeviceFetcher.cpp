@@ -1,6 +1,6 @@
 #include "hacklib/D3DDeviceFetcher.h"
 #include "hacklib/Hooker.h"
-#include <Windows.h>
+#include <windows.h>
 #include <condition_variable>
 #include <mutex>
 

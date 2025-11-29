@@ -19,7 +19,7 @@
 #define HL_LOG_RAW_COLOR(color, format, ...) hl::LogRaw(color, format, ##__VA_ARGS__);
 
 #ifdef WIN32
-#include <Windows.h>
+#include <windows.h>
 #define HL_ERRCODE ((int)GetLastError())
 #else
 #include <errno.h>

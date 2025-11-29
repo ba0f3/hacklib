@@ -1,5 +1,5 @@
 #include "hacklib/MessageBox.h"
-#include <Windows.h>
+#include <windows.h>
 
 
 void hl::MsgBox(const std::string& title, const std::string& message)

@@ -1,5 +1,5 @@
 #include "hacklib/GfxOverlay.h"
-#include <Windows.h>
+#include <windows.h>
 #include <atomic>
 #include <chrono>
 #include <dwmapi.h>

@@ -1,6 +1,6 @@
 #include "hacklib/Memory.h"
 #include "hacklib/Logging.h"
-#include <Windows.h>
+#include <windows.h>
 #include <stdexcept>
 
 
