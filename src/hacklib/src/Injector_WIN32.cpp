@@ -1,4 +1,4 @@
-#include "hacklib/njector.h"
+#include "hacklib/Injector.h"
 #include <windows.h>
 #include <tlhelp32.h>
 #include <Psapi.h>
