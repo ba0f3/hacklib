@@ -1,7 +1,7 @@
 #include "hacklib/Injector.h"
 #include <windows.h>
 #include <tlhelp32.h>
-#include <Psapi.h>
+#include <psapi.h>
 #include <algorithm>
 
 
